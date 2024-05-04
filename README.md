@@ -29,8 +29,8 @@ In this project, we'll explore the following topics:
 To run this project, follow these steps:
 
 1. Install the required libraries using pip: `pip install yolov5 opencv-python`
-2. Clone this repository: `git clone https://github.com/your-username/object-detection-yolo-opencv.git`
-3. Run the Python script: `python object_detection.py`
+2. Clone this repository: `git clone https://github.com/Yasamin-Alemzadeh/Object-Detection-using-YOLO-Models-and-OpenCV.git`
+3. Run the Python script: `python object_detection.ipynb`
 
 **Results**
 ----------
